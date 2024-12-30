@@ -1,1 +1,10 @@
-
+body {
+    font-family: 'Roboto', sans-serif;
+    color: #333;
+    line-height: 1.5;
+    margin: 0;
+}
+header, footer {
+    background-color: #f4f4f4;
+    padding: 1em 0;
+}
